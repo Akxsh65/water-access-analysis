@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv("C:\\Users\\Dell\\Downloads\\Python theory EL.csv")
+df = pd.read_csv("water_access_data.csv")
 
 
 group1 = ["India", "Zimbabwe", "Costa Rica"]
